@@ -1,1 +1,1 @@
-
+A basic React application that's using MockAPI to bring some data and list them. Also has a primitive search function that filters the incoming data and only shows the ones that contains the search term.
